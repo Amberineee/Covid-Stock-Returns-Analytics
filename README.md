@@ -1,1 +1,1 @@
-# Financial-Analytics-of-Stock-Returns-during-Covid-19-
+# Financial-Analytics-of-Stock-Returns-during-Covid-19
